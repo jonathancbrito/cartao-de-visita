@@ -1,5 +1,5 @@
 body{
-	background: #ddd;
+     background: #ddd;
 }
 
 .cartao{
@@ -13,35 +13,34 @@ body{
 	margin-top: 10%;
 }
 
-
 ul{
-	margin: 1px;
-	padding: 1px;
+   margin: 1px;
+   padding: 1px;
 }
 
 #nome{
-	list-style-type: none;
-	font-family: Times;
-    text-align: left;   
-    font-size: 23px;
+     list-style-type: none;
+     font-family: Times;
+     text-align: left;   
+     font-size: 23px;
 }
 
 #inst{
-    list-style-image: url(../assets/insta.png);
-    list-style-position: inside;
+     list-style-image: url(../assets/insta.png);
+     list-style-position: inside;
 }
 
 #twit{
-    list-style-image: url(../assets/Twitter.png);
-    list-style-position: inside;
+     list-style-image: url(../assets/Twitter.png);
+     list-style-position: inside;
 }
 
 #yout{
-    list-style-image: url(../assets/Youtube.png);
-    list-style-position: inside;
+     list-style-image: url(../assets/Youtube.png);
+     list-style-position: inside;
 }
 
 a {
-	text-decoration: none;
-	color: black;
+   text-decoration: none;
+   color: black;
 }
