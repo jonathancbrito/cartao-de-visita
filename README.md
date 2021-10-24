@@ -6,7 +6,7 @@
   <a href="mailto:jonathan.brito.15@protonmail.com?subject=Contato">
     <img alt="Jonathan Brito" src="https://img.shields.io/badge/-jonathan.brito.15@pm.me-informational?style=flat-square&logo=Gmail&logoColor=black"/>
   </a>
-  <a href="https://github.com/JonathanCB99/churrascometro-simpsons/blob/main/LICENSE">
+  <a href="https://github.com/jonathancbrito/cartao-de-visita/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-informational">
   </a>
 </p>
